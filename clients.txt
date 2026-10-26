@@ -1,5 +1,5 @@
-Angelina
-Pavel
-Konor
-Maga
-Maracle
+Angelina - 100
+Pavel - 200 
+Konor - 300
+Maga - 400
+Maracle - 500
